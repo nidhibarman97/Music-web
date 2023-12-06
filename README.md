@@ -1,1 +1,2 @@
-# Music-web
+A music website is basically a webpage where one can play/pause music.
+In thsi project, we are going to make a website that will play/pause music using HTML, CSS and JavaScript. We will use HTML to give a basic layout and with CSS, we will give beautify our design by giving around and play pause button images. We will use basic JavaScript features like if-else and ducument.getElementById to play and pause our music.
